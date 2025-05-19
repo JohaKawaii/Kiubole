@@ -15,6 +15,10 @@ if respuesta:
         st.success("Yo te amo más mi amor ❤️")
     elif A == "si":
         st.success("Qué bello amorcito, yo te amo más <3")
+    elif A == "sí":
+        st.success("Ayy, yo también <3")
+    elif A == "Si":
+        st.success("Yo también precioso")
     elif A == "Obvio":
         st.success("Yo sabía que ibas a decir que sí mi amor ❤️")
     elif A == "obvio":
