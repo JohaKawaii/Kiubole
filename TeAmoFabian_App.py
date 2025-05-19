@@ -11,7 +11,7 @@ respuesta = st.text_input("¿Me amas?")
 if respuesta:
     A = respuesta.strip()
 
-    if A == "sí":
+    if A == "Sí":
         st.success("Yo te amo más mi amor ❤️")
     elif A == "si":
         st.success("Qué bello amorcito, yo te amo más <3")
